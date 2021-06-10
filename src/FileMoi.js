@@ -9,6 +9,7 @@ function FileMoi(props) {
   return (
     <div>
       File moi tao
+    <h1>Sua tiep <h1>
     </div>
   );
 }
