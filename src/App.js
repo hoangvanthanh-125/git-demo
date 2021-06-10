@@ -23,6 +23,7 @@ function App({ initValue = 0 }) {
      </h1>
      <h2>Nhánh 2</h2>
      <h3>Con flix tuoi lz</h3>
+
     </div>
   );
 }
