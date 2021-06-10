@@ -4,11 +4,13 @@ import PropTypes from 'prop-types';
 FileMoi.propTypes = {
   
 };
-
+const renderList = ()=> {
+  console.log('hihi');
+}
 function FileMoi(props) {
   return (
     <div>
-    <h1>jdchdc</h1>
+     {renderList()}
     </div>
   );
 }
