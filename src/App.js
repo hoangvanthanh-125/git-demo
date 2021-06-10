@@ -22,7 +22,7 @@ function App({ initValue = 0 }) {
     them dong 2
      </h1>
      <h2>Nhánh 2</h2>
-     <h3>Nhanh 3</h3>
+     <h3>Con Flix tuoi lz</h3>
     </div>
   );
 }
