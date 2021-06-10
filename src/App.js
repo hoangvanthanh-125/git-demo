@@ -21,6 +21,7 @@ function App({ initValue = 0 }) {
        them dong 1
     them dong 2
      </h1>
+     <h2>Nhánh 2</h2>
     </div>
   );
 }
